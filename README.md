@@ -1,6 +1,8 @@
 # Compost-Dataset
 This repository provides access to the dataset used in the research titled.
+
 "Research on the Material and Energy Limits of Aerobic Composting'
+
 The dataset includes 4248 samples collected during the composting process using a dedicated sensor system. 
 The content involves over 260 documents from 1993 to 2025, including a total of 4,248 samples of compost from kitchen waste, livestock manure and sludge waste. It contains key environmental features and gas emission data, enabling predictive analysis for compost maturity and monitoring of gas emissions.
 Features:
